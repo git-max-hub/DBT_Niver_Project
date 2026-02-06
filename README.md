@@ -20,5 +20,4 @@ Try running the following commands:
 
 Objectif: transformations silver (dbt core).
 
-
-final modif
+test
