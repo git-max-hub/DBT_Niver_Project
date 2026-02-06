@@ -20,6 +20,4 @@ Try running the following commands:
 
 Objectif: transformations silver (dbt core).
 
-# Mon projet dbt - new feat
-
-voici ma modif.
+test
