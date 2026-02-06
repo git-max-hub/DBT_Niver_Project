@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: stg_export_ppd_amazon
+    columns:
+      - name: Year
+        tests: [not_null]
+
+      - name: Month
+        tests: [not_null]
+
+      - name: Country
+        tests: [not_null]
+
+      - name: Product_code
+        tests: [not_null]
+
+      - name: Units_1P
+        tests: [not_null]
+
+      - name: Units_3P
+        tests: [not_null]
+
+      - name: Sellout_Amount_1P_EUR
+        tests: [not_null]
+
+      - name: Sellout_Amount_3P_EUR
+        tests: [not_null]

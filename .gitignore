@@ -1,0 +1,17 @@
+# dbt artifacts (generated)
+target/
+dbt_packages/
+logs/
+
+# dbt local user config (optional if you prefer local-only)
+# profiles.yml
+
+# python / venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS / IDE
+.DS_Store
+.vscode/

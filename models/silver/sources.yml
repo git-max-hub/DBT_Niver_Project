@@ -1,0 +1,9 @@
+sources:
+  - name: silver_raw      # ← nom logique dbt
+    schema: silver_raw    # ← vrai schéma SQL
+    tables:
+      - name: export_ppd_amazon_24_s2
+        identifier: Export_PPD_AMAZON_24_S2
+
+      - name: export_ppd_amazon_25_s1
+        identifier: Export_PPD_AMAZON_25_S1
