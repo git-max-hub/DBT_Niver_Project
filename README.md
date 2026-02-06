@@ -20,4 +20,4 @@ Try running the following commands:
 
 Objectif: transformations silver (dbt core).
 
-test
+test CI/CD 2
